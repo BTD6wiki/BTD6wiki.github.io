@@ -19,21 +19,32 @@ nav:
     - 致谢: intro/thanks.md
   - 游戏机制:
     - 英雄: 
-      - 英雄简介: basic/heros/heros.md
-      - 昆西: basic/heros/1Quincy.md
-      - 格温多琳: basic/heros/2Gwendolin.md
-      - 先锋琼斯: 3Striker_Jones.md
-      - 奥本·格林福特: 4Obyn_Greenfoot.md
-      - 上尉丘吉尔: 5Captain_Churchill.md
-      - 本杰明: 6Benjamin.md
-      - 艾泽里: 7Ezili.md
-      - 帕特·法斯第: 8Pat_Fusty.md
-    - 知识: 
-      - 魔法: basic/knowledge/magic.md
+    # 和游戏内英雄顺序保持一致
+      - 英雄简介: basic/heroes/heroes.md
+      - 昆西: basic/heroes/1_Quincy.md
+      - 格温多琳: basic/heroes/2_Gwendolin.md
+      - 先锋琼斯: basic/heroes/3_Striker_Jones.md
+      - 奥本·格林福特: basic/heroes/4_Obyn_Greenfoot.md
+      - 灵机: basic/heroes/13_Psi.md
+      - 上尉丘吉尔: basic/heroes/5_Captain_Churchill.md
+      - 本杰明: basic/heroes/6_Benjamin.md
+      - 艾泽里: basic/heroes/7_Ezili.md
+      - 帕特·法斯第: basic/heroes/8_Pat_Fusty.md
+      - 阿多拉: basic/heroes/9_Adora.md
+      - 海军上将布里克尔: basic/heroes/10_Admiral_Brickell.md
+      - 艾蒂安: basic/heroes/11_Etienne.md
+      - 萨乌达: basic/heroes/12_Sauda.md
     - 力量:
       - 力量: basic/powers/powers.md
       - insta猴子: basic/powers/insta.md
-    - 气球: bloons.md
+    - 知识: 
+      - 初级: basic/knowledge/primary.md
+      - 军事: basic/knowledge/military.md
+      - 魔法: basic/knowledge/magic.md
+      - 支持: basic/knowledge/support.md
+      - 英雄: basic/knowledge/heroes.md
+      - 力量: basic/knowledge/powers.md
+    - 气球: basic/bloons.md
     - 游戏模式: basic/mods.md
     - 波次: basic/waves.md
   - 猴子防御塔:
@@ -41,6 +52,16 @@ nav:
     - 初级猴子:
       - 初级猴子简介: monkeys/primary/primary.md
       - 飞镖猴: monkeys/primary/1Dart_Monkey.md
+  - 战术搭配:
+      - 搭配的基本逻辑: collocation/first_class.md
+      - 大炮流: collocation/da_pao_liu.md
+      - 太阳永啤流: collocation/tai_yang_yong_pi_liu.md
+      - 军事流: collocation/jun_shi_liu.md
+  - 进阶内容:
+      - 征途模式: advance/odyssey_mode.md
+      - BOSS挑战: advance/boss_challenge.md
+      - 竞速模式: advance/race_event.md
+      - freeplay: advance/freeplay.md
 
 # Theme
 theme:
