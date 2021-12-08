@@ -1,0 +1,100 @@
+# Project Information
+site_name: BTD6 Wiki
+site_description: 气球塔防6（BTD6）攻略站，提供入门到精通的简介和攻略。
+site_author: EndlessLethe
+site_url: https://EndlessLethe.github.io/BTD6-wiki
+strict: false
+
+# Repository
+repo_name: 'BTD6-wiki'
+repo_url: 'https://github.com/EndlessLethe/BTD6-wiki'
+
+
+# Contents
+nav:
+  - 简介:
+    - 关于Wiki: index.md
+    - 如何开始游戏: intro/how_to_start.md
+    - 如何贡献内容: intro/how_to_contribute.md
+    - 致谢: intro/thanks.md
+  - 游戏机制:
+    - 英雄: 
+      - 英雄简介: basic/heros/heros.md
+      - 昆西: basic/heros/1Quincy.md
+      - 格温多琳: basic/heros/2Gwendolin.md
+      - 先锋琼斯: 3Striker_Jones.md
+      - 奥本·格林福特: 4Obyn_Greenfoot.md
+      - 上尉丘吉尔: 5Captain_Churchill.md
+      - 本杰明: 6Benjamin.md
+      - 艾泽里: 7Ezili.md
+      - 帕特·法斯第: 8Pat_Fusty.md
+    - 知识: 
+      - 魔法: basic/knowledge/magic.md
+    - 力量:
+      - 力量: basic/powers/powers.md
+      - insta猴子: basic/powers/insta.md
+    - 气球: bloons.md
+    - 游戏模式: basic/mods.md
+    - 波次: basic/waves.md
+  - 猴子防御塔:
+    - 猴子一览: monkeys/monkeys.md
+    - 初级猴子:
+      - 初级猴子简介: monkeys/primary/primary.md
+      - 飞镖猴: monkeys/primary/1Dart_Monkey.md
+
+# Theme
+theme:
+  name: material
+#   custom_dir: 'mkdocs-material/material'
+  static_templates:
+    - 404.html
+  language: 'zh'
+  palette:
+    primary: 'white'
+    accent: 'red'
+  include_search_page: false
+  search_index_only: true
+  favicon: 'https://cdn.jsdelivr.net/npm/oicdn@0.0.1/favicon.ico'
+
+  logo: 'school'
+  feature:
+    tabs: true
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.progressbar
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: math
+          class: arithmatex
+          format: !!python/name:pymdownx.arithmatex.fence_mathjax_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
