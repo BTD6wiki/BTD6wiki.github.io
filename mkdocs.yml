@@ -52,6 +52,9 @@ nav:
     - 初级猴子:
       - 初级猴子简介: monkeys/primary/primary.md
       - 飞镖猴: monkeys/primary/1Dart_Monkey.md
+    - 特殊猴子:
+      - 六级猴子(典范猴): monkeys/special/paragon.md
+      - 神殿: monkeys/special/temple.md
   - 战术搭配:
       - 搭配的基本逻辑: collocation/first_class.md
       - 大炮流: collocation/da_pao_liu.md
