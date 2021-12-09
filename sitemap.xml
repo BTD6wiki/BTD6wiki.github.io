@@ -2,182 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/advance/boss_challenge/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/advance/everyday/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/advance/freeplay/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/advance/odyssey_mode/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/advance/race_event/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/bloons/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/mods/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/waves/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/10Brickell/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/10_Admiral_Brickell/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/11Etienne/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/11_Etienne/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/12Sauda/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/12_Sauda/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/13Psi/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/13_Psi/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/1Quincy/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/1_Quincy/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/2Gwendolin/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/2_Gwendolin/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/3Jones/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/3_Striker_Jones/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/4Obyn/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/4_Obyn_Greenfoot/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/5Churchill/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/5_Captain_Churchill/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/6Benjamin/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/6_Benjamin/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/7Ezili/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/7_Ezili/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/8Pat/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/8_Pat_Fusty/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/9Adora/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/9_Adora/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heros/heros/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/heroes/heroes/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/knowledge/heroes/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/knowledge/magic/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/knowledge/military/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/knowledge/powers/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/knowledge/primary/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/knowledge/support/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/powers/insta/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/basic/powers/powers/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/collocation/da_pao_liu/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/collocation/first_class/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/collocation/jun_shi_liu/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/collocation/tai_yang_yong_pi_liu/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/intro/how_to_contribute/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/intro/how_to_start/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/intro/thanks/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/maps/beginner/17Hedge/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/maps/beginner/1Monkey_Meadow/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/maps/beginner/2Tree_Stump/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/maps/beginner/3Town_Center/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/maps/beginner/4Cabin/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/maps/beginner/5Resort/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/monkeys/monkeys/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/monkeys/primary/1Dart_Monkey/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://EndlessLethe.github.io/BTD6-wiki/monkeys/primary/primary/</loc>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/monkeys/special/paragon/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://EndlessLethe.github.io/BTD6-wiki/monkeys/special/temple/</loc>
-         <lastmod>2021-12-08</lastmod>
+         <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
