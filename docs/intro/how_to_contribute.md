@@ -1,45 +1,25 @@
 # 如何贡献内容
+## 交流方式
+非常欢迎大家通过下面的交流方式，加群、交流和分享。
+
+- [QQ群](https://jq.qq.com/?_wv=1027&k=XOUJ90w1): 气球塔防6wiki, 771620140
+- [百度贴吧wiki贴](https://tieba.baidu.com/p/7645672419): https://tieba.baidu.com/p/7645672419
+- 发送邮件：BTD6wiki@outlook.com
+- [Github](https://github.com/BTD6wiki/BTD6-wiki): https://github.com/BTD6wiki/BTD6-wiki
+
+## 我可以贡献哪些内容
+1. 在Wiki上没有找到能够解答你问题时，将问题通过QQ群、Email或github的方式告知Wiki
+2. 当贴吧出现萌新提问，并且Wiki上没有相关内容时，将问题通过QQ群、Email或github的方式告知Wiki
+3. 对于你可以解答的问题，将解决步骤通过文字（和图片）的方式整理出来，通过Email或github的方式告知Wiki
+4. 当你看到很有帮助的、还没有被Wiki涵盖的内容时，将内容整理出来，通过Email或github的方式告知Wiki
+5. 你对于Wiki页面的排版、遣词造句或者层次划分不满意，欢迎提出新的想法，并通过QQ群、Email或github的方式告知Wiki
+
 ## 贡献方式
-本项目主要使用 [Issues](https://github.com/EndlessLethe/BTD6-wiki/issues) / [QQ群](https://jq.qq.com/?_wv=1027&k=XOUJ90w1) (771620140) / Email(BTD6wiki@outlook.com) 进行交流沟通。
+- 本项目主要使用 [QQ群](https://jq.qq.com/?_wv=1027&k=XOUJ90w1) (771620140) 来完成轻量级的沟通。  
+- 使用 Email(BTD6wiki@outlook.com) 来让不太熟悉Github多人协作的贡献者参与到Wiki建设中。  
+- Github的request和issue两大功能都非常容易入门，而且专门为多人协同设计。只需要把修改的文字和图片轻松复制到源文件里即可。
+	- 后文有Github使用教程
 
-### Github
-如果你是计算机相关专业的学生或工作者，推荐使用github来访问并通过pull request的形式将你的贡献合并到库中。
-
-虽然你不是精通计算机，但是你能够**通过某些方式**访问到[Github](https://github.com/)这个不存在的网页，那么推荐通过以下步骤注册账号，并将你的贡献通过issue的形式告知我们。
-
-1. 访问[Github](https://github.com/),并点击右上角的红色框中"Sign in"图标
-![注册账号](github主页面.jpg)
-
-2. 依次填入邮箱、密码以及你的账户名称
-![填入个人信息](github填入相关信息.jpg)
-
-3. 完成机器人测试（可能没有）以及邮件验证码验证
-4. 跳过个性化设置页面：将页面拉到最下面，点击"Skip personalize"图标
-![个性化页面](github个性化页面.jpg)
-![跳过个性化](github最下方的skip.jpg)
-4. 发起issue：进入到[Issues](https://github.com/BTD6wiki/BTD6-wiki/issues)页面并红框中的"New issue"图标
-![发起issue](github_issue.jpg)
-5. 填写issue并提交
-![填写issue并提交](github_issue2.jpg)
-
-### Email （推荐）
-推荐大家通过邮件将自己贡献的内容发送到邮箱中。
-
-一方面可以及时查看和处理，另一方面便于归档和统计大家的贡献~
-
-邮箱名： BTD6wiki@outlook.com
-
-### QQ群
-刚刚创建QQ群，欢迎大家加入~
-在这里分享你的困惑，回答他人不解吧~
-
-群名：气球塔防6wiki
-群号：771620140
-加群链接： https://jq.qq.com/?_wv=1027&k=XOUJ90w1
-
-### 百度贴吧
-通过在主题帖下留言。
-注：不推荐。贴吧不方便内容管理。
 
 ## 急需完善的内容
 为了尽快建立起Wiki的整体轮廓，
@@ -51,6 +31,27 @@
 - 猴子防御塔的所有子页面
 - 进阶模式中各个模式的子页面（主要是过关思路）
 
+## Github使用教程
+
+### 注册账号
+
+1. 访问[Github](https://github.com/),并点击右上角的红色框中"Sign in"图标
+![注册账号](github主页面.jpg){ align=left }
+
+2. 依次填入邮箱、密码以及你的账户名称
+![填入个人信息](github填入相关信息.jpg)
+
+3. 完成机器人测试（可能没有）以及邮件验证码验证
+4. 跳过个性化设置页面：将页面拉到最下面，点击"Skip personalize"图标
+![个性化页面](github个性化页面.jpg){ align=left }
+![跳过个性化](github最下方的skip.jpg){ align=left }
+4. 发起issue：进入到[Issues](https://github.com/BTD6wiki/BTD6-wiki/issues)页面并红框中的"New issue"图标
+
+
+### 发起issue
+![发起issue](github_issue.jpg){ align=left }
+5. 填写issue并提交
+![填写issue并提交](github_issue2.jpg){ align=left }
 
 
 ## Markdown简介

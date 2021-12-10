@@ -2,12 +2,12 @@
 site_name: BTD6 Wiki
 site_description: 气球塔防6（BTD6）攻略站，提供入门到精通的简介和攻略。
 site_author: EndlessLethe
-site_url: https://EndlessLethe.github.io/BTD6-wiki
+site_url: https://github.com/BTD6wiki/BTD6-wiki
 strict: false
 
 # Repository
 repo_name: 'BTD6-wiki'
-repo_url: 'https://github.com/EndlessLethe/BTD6-wiki'
+repo_url: 'https://github.com/BTD6wiki/BTD6-wiki'
 
 
 # Contents
@@ -45,6 +45,7 @@ nav:
       - 英雄: basic/knowledge/heroes.md
       - 力量: basic/knowledge/powers.md
     - 气球: basic/bloons.md
+    - 道具: basic/items.md
     - 游戏模式: basic/mods.md
     - 波次: basic/waves.md
     - 成就: basic/achievements.md
@@ -105,6 +106,8 @@ theme:
 # Extensions
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
   - codehilite:
       guess_lang: false
       linenums: true
