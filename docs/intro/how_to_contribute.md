@@ -14,12 +14,15 @@
 ![填入个人信息](github填入相关信息.jpg)
 
 3. 完成机器人测试（可能没有）以及邮件验证码验证
-4. 跳过个性化设置页面（将页面拉到最下面），点击"Skip personalize"图标
+4. 跳过个性化设置页面：将页面拉到最下面，点击"Skip personalize"图标
 ![个性化页面](github个性化页面.jpg)
 ![跳过个性化](github最下方的skip.jpg)
-4. 进入到[Issues](https://github.com/EndlessLethe/BTD6-wiki/issues)页面并
+4. 发起issue：进入到[Issues](https://github.com/BTD6wiki/BTD6-wiki/issues)页面并红框中的"New issue"图标
+![发起issue](github_issue.jpg)
+5. 填写issue并提交
+![填写issue并提交](github_issue2.jpg)
 
-### Email
+### Email （推荐）
 推荐大家通过邮件将自己贡献的内容发送到邮箱中。
 
 一方面可以及时查看和处理，另一方面便于归档和统计大家的贡献~
@@ -80,6 +83,7 @@ Markdown 是通过少量符号来控制文章格式的书写方式。使用Markd
 ```
 
 效果：
+
 |  表头   | 表头  |
 |  ----  | ----  |
 | 单元格  | 单元格 |
