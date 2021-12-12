@@ -36,22 +36,22 @@
 ### 注册账号
 
 1. 访问[Github](https://github.com/),并点击右上角的红色框中"Sign in"图标
-![注册账号](github主页面.jpg){ align=left }
+![注册账号](github主页面.jpg){width="300" }
 
 2. 依次填入邮箱、密码以及你的账户名称
-![填入个人信息](github填入相关信息.jpg)
+![填入个人信息](github填入相关信息.jpg){width="300" }
 
 3. 完成机器人测试（可能没有）以及邮件验证码验证
 4. 跳过个性化设置页面：将页面拉到最下面，点击"Skip personalize"图标
-![个性化页面](github个性化页面.jpg){ align=left }
-![跳过个性化](github最下方的skip.jpg){ align=left }
+![个性化页面](github个性化页面.jpg){width="300" }
+![跳过个性化](github最下方的skip.jpg){width="300" }
 4. 发起issue：进入到[Issues](https://github.com/BTD6wiki/BTD6-wiki/issues)页面并红框中的"New issue"图标
 
 
 ### 发起issue
-![发起issue](github_issue.jpg){ align=left }
+![发起issue](github_issue.jpg){width="300" }
 5. 填写issue并提交
-![填写issue并提交](github_issue2.jpg){ align=left }
+![填写issue并提交](github_issue2.jpg){width="300" }
 
 
 ## Markdown简介

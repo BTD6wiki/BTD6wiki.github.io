@@ -6,7 +6,7 @@
 
 与其他塔防游戏（包括 BTD 系列中的游戏）一样，Bloons TD 6 的前提是防止被称为“Bloons”的敌方气球走过整个地图，并对玩家造成超过生命值的伤害。玩家需要通过使用建造各式各样的猴子防御塔来击破气球。
 
-![Bloons_TD6_Gameplay_Screenshot](Bloons_TD6_Gameplay_Screenshot.jpg){ align=left }
+![Bloons_TD6_Gameplay_Screenshot](Bloons_TD6_Gameplay_Screenshot.jpg){width="300" }
 
 ## 关于 Wiki
 BTD6 Wiki 致力于成为一个**免费**、**开放**且**持续更新**的 气球塔防6 知识整合站点，大家可以在这里获取与相关的、有趣又实用的知识。我们为大家提供基础知识、游戏机制以及包括点击模式、Boss挑战等高难度挑战相关的内容，帮助大家更快速深入地入门气球塔防6。

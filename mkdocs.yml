@@ -72,9 +72,12 @@ nav:
       - 神殿: monkeys/special/temple.md
   - 战术搭配:
       - 搭配的基本逻辑: collocation/first_class.md
+      - 太阳永啤流: collocation/1_tai_yang_yong_pi_liu.md
+      - 军事流: collocation/2_jun_shi_liu.md
+      - 六德流: collocation/3_liu_de_liu.md
       - 大炮流: collocation/da_pao_liu.md
-      - 太阳永啤流: collocation/tai_yang_yong_pi_liu.md
-      - 军事流: collocation/jun_shi_liu.md
+      
+      
   - 进阶内容:
       - 征途模式: advance/odyssey_mode.md
       - 每日任务: advance/everyday.md
