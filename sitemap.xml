@@ -36,7 +36,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/BTD6wiki/BTD6-wiki/basic/attack/</loc>
+         <lastmod>2021-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/BTD6wiki/BTD6-wiki/basic/bloons/</loc>
+         <lastmod>2021-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/BTD6wiki/BTD6-wiki/basic/damage/</loc>
          <lastmod>2021-12-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -192,6 +202,11 @@
     </url>
     <url>
          <loc>https://github.com/BTD6wiki/BTD6-wiki/collocation/5_ren_zhe_liu/</loc>
+         <lastmod>2021-12-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/BTD6wiki/BTD6-wiki/collocation/6_yong_ding_liu/</loc>
          <lastmod>2021-12-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
