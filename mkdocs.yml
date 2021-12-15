@@ -8,7 +8,7 @@ strict: false
 # Repository
 repo_name: 'BTD6-wiki'
 repo_url: 'https://github.com/BTD6wiki/BTD6-wiki'
-
+edit_uri: 'https://btd6wiki.github.io/BTD6-wiki/edit-landing/?ref='
 
 # Contents
 nav:
