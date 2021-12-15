@@ -22,8 +22,9 @@ BTD6 Wiki 文字内容默认使用《知识共享 署名-非商业性使用-相�
 
 ## 交流方式
 非常欢迎大家通过下面的交流方式，加群、交流和分享。
+
 - [QQ群](https://jq.qq.com/?_wv=1027&k=XOUJ90w1): 771620140
-- [百度贴吧wiki贴]:
+- [百度贴吧wiki贴](https://tieba.baidu.com/p/7645672419): https://tieba.baidu.com/p/7645672419
 - 发送邮件：BTD6wiki@outlook.com
 - [Github](https://github.com/BTD6wiki/BTD6-wiki: https://github.com/BTD6wiki/BTD6-wiki
 

@@ -15,6 +15,7 @@ nav:
   - 简介:
     - 关于Wiki: index.md
     - 如何开始游戏: intro/how_to_start.md
+    - 萌新常见问题的解答: intro/FQA.md
     - 如何贡献内容: intro/how_to_contribute.md
     - 致谢: intro/thanks.md
   - 游戏机制:
@@ -38,16 +39,20 @@ nav:
       - 力量: basic/powers/powers.md
       - insta猴子: basic/powers/insta.md
     - 知识: 
+      - 知识简介: basic/knowledge/knowledge.md
       - 初级: basic/knowledge/primary.md
       - 军事: basic/knowledge/military.md
       - 魔法: basic/knowledge/magic.md
       - 支持: basic/knowledge/support.md
       - 英雄: basic/knowledge/heroes.md
       - 力量: basic/knowledge/powers.md
-    - 气球: basic/bloons.md
+    - 气球类型: basic/bloons.md
+    - 伤害类型: basic/damage.md
+    - 攻击: basic/attack.md
     - 道具: basic/items.md
     - 游戏模式: basic/mods.md
     - 波次: basic/waves.md
+    - 经济系统: basic/economy.md
     - 成就: basic/achievements.md
   - 猴子防御塔:
     - 猴子一览: monkeys/monkeys.md
@@ -77,8 +82,8 @@ nav:
       - 3 六德流: collocation/3_liu_de_liu.md
       - 4 大炮流: collocation/4_da_pao_liu.md
       - 5 忍者流: collocation/5_ren_zhe_liu.md
-      
-      
+      - 6 图钉流: collocation/6_tu_ding_liu.md
+      - 7 永钉流: collocation/7_yong_ding_liu.md
   - 进阶内容:
       - 征途模式: advance/odyssey_mode.md
       - 每日任务: advance/everyday.md
@@ -112,6 +117,7 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - tables
   - codehilite:
       guess_lang: false
       linenums: true
