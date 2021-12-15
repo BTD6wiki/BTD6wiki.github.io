@@ -2,9 +2,11 @@
 
 首先，感谢您愿意为 **BTD6 Wiki** 做出自己的贡献。
 
-不过在开始之前，我们需要您了解并熟知 [如何参与](./intro/how_to_contribute.md) 里的内容，以避免在编辑时产生不必要的麻烦。
+不过在开始之前，我们需要您了解并熟知 [如何贡献内容](./intro/how_to_contribute.md) 里的内容，以避免在编辑时产生不必要的麻烦。
 
 在阅读完之后，请点击下方的按钮，然后开始编辑。
+
+- 
 
 
 <a id="btn-startedit" style="padding: 0.75em 1.25em; display: inline-block; line-height: 1; text-decoration: none; white-space: nowrap; cursor: pointer; border: 1px solid #6190e8; border-radius: 5px; background-color: #6190e8; color: #fff; outline: none; font-size: 0.75em;">开始编辑</a>
@@ -20,5 +22,5 @@
 		}
 		return dft;
 	}
-	document.getElementById("btn-startedit").href = "https://github.com/BTD6wiki/BTD6-wiki/tree/main/docs" + getQueryVariable("ref", "");
+	document.getElementById("btn-startedit").href = "https://github.com/BTD6wiki/BTD6-wiki/edit/main/docs" + getQueryVariable("ref", "");
 </script>
