@@ -73,7 +73,7 @@ nav:
       - 迫击炮猴: monkeys/military/6_mortar_monkey.md
       - 机枪猴: monkeys/military/7_dartling_gunner.md
     - 特殊猴子:
-      - 六级猴子(典范猴): monkeys/special/paragon.md
+      - 模范猴: monkeys/special/paragon.md
       - 神殿: monkeys/special/temple.md
   - 战术搭配:
       - 搭配的基本逻辑: collocation/first_class.md
