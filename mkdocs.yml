@@ -54,6 +54,7 @@ nav:
     - 波次: basic/waves.md
     - 经济系统: basic/economy.md
     - 成就: basic/achievements.md
+    - 额外设置: basic/extra_setting.md
   - 猴子防御塔:
     - 猴子一览: monkeys/monkeys.md
     - 初级猴子:
@@ -111,6 +112,9 @@ theme:
   font:
     text: 'Fira Sans'
     code: 'Fira Mono'
+
+extra_javascript:
+  - 'https://cdn.jsdelivr.net/npm/mathjax@2.7.5/MathJax.js?config=TeX-MML-AM_CHTML'
 
 # Extensions
 markdown_extensions:
