@@ -1,6 +1,6 @@
 # 成就
 ## 简介
-截至29.0版本，Bloons TD 6至今共获得138个成就：125个可见成就，12个隐藏成就。
+截至29.0版本，Bloons TD 6至今共获得137个成就：125个普通成就，12个隐藏成就。
 
 ## 普通成就
 | 图标 | 名称 | 解锁条件 |
@@ -90,9 +90,7 @@
 | ![力量势不可挡！](./achievements_img/力量势不可挡！.jpg) | 力量势不可挡！ | 在合作模式下使用100种力量 |
 | ![Insta防御](./achievements_img/Insta防御.jpg) | Insta防御 | 在合作模式下使用5种Insta |
 | ![协力击破](./achievements_img/协力击破.jpg) | 协力击破 | 在合作模式下击破10000000个气球 |
-| ![2TC](./achievements_img/2TC.jpg) | 2TC | CHIMPS难度，在只有2座猴子塔情况下完成一局游戏 |
 | ![弹指一挥间](./achievements_img/弹指一挥间.jpg) | 弹指一挥间 | 使用一半初始生命和一半初始现金完成一局游戏 |
-| ![慈善家比尔](./achievements_img/慈善家比尔.jpg) | 慈善家比尔 | 一口气向一位合作的盟友发送$500,000 |
 | ![500场竞速俱乐部](./achievements_img/500场竞速俱乐部.jpg) | 500场竞速俱乐部 | 参加500场竞速比赛 |
 | ![最大的挑战](./achievements_img/最大的挑战.jpg) | 最大的挑战 | 创建或完成200次挑战 |
 | ![好看极了](./achievements_img/好看极了.jpg) | 好看极了 | 使用任意英雄的皮肤赢得100局游戏 |
@@ -132,14 +130,27 @@
 | ![No Harvest](./achievements_img/No Harvest.jpg) | No Harvest | Beat Cornfield on CHIMPs without removing any corn |
 | ![Student Loans](./achievements_img/Student Loans.jpg) | Student Loans | 4 x 10^5 (./achievements_img/Go into $400,000 of debt) |
 
+注：表格中遗漏了一个成就，麻烦知道的读者告知我们（猫猫流泪）
 
 ## 隐藏成就
 目前有 12 个已知的隐藏成就，其中包括：
 
-| 图标 | 名称 | 描述 | 解锁方式 |
+| 图标 | 名称 | 描述 | 解锁方式 | 
 | - | - | - | - |
-| ![](./achievements_img/.jpg) | 金券 | 布鲁姆帕-卢姆帕-都姆帕-迪-嘟！ | [100%获得小猴塔 （小塔模式）（隐藏成就攻略）额外设置内容[气球塔防6/猴子塔防6]](https://www.bilibili.com/video/av543577676/) |
-| ![](./achievements_img/.jpg) | 大气球 | 帕特更擅长攻击大气球 | 使用并放置英雄`帕特`，并获胜10局 |
+| ![金券](./achievements_img/金券.jpg) | 金券（小猴子塔） | 布鲁姆帕-卢姆帕-都姆帕-迪-嘟！ | [100%获得小猴塔 （小塔模式）（隐藏成就攻略）额外设置内容[气球塔防6/猴子塔防6]](https://www.bilibili.com/video/av543577676/) |
+| ![大气球](./achievements_img/大气球.jpg) | 大气球 | 帕特更擅长攻击大气球 | 使用并放置英雄`帕特`，并获胜10局 |
+| ![壮硕猴子](./achievements_img/壮硕猴子.jpg) | 壮硕猴子（大猴子塔） | - | 通关10局中等难度以上的游戏，只使用船、飞机、直升机、迫击炮、超猴、香蕉 农场、猴村、工厂、帕特和丘吉尔 |
+| ![美人鱼战士和企鹅男孩](./achievements_img/美人鱼战士和企鹅男孩.jpg) | 美人鱼战士和企鹅男孩（小猴子塔） | - | 在100回合之前用气球大师炼金术 师造成900,000+伤害。（freeplay也需要R100以前） |
+| ![乔希的常数](./achievements_img/乔希的常数.jpg) | 乔希的常数 | - | 在专家图用价格超过$40,870的钉子工厂通关点击模式（025永钉通关黑暗城堡） |
+| ![奇怪的可爱](./achievements_img/奇怪的可爱.jpg) | 奇怪的可爱 | - | 在20级阿多拉范围内造一个黑殿 |
+| ![无英雄，没问题](./achievements_img/无英雄，没问题.jpg) | 无英雄，没问题 | - | 不使用英雄通关一次奥德赛，任意难度都可以 |
+| ![顽固策略](./achievements_img/顽固策略.jpg) | 顽固策略 | - | 在有可以移除的障碍物的图不移除障碍物通关100次游戏 |
+| ![2TC](./achievements_img/2TC.jpg) | 2TC | CHIMPS难度，在只有2座猴子塔情况下完成一局游戏 |
+| ![慈善家比尔](./achievements_img/慈善家比尔.jpg) | 慈善家比尔 | 一口气向一位合作的盟友发送$500,000 |
+| ![完美典范](./achievements_img/完美典范.jpg) | 完美典范 | 模范中的模范 | 获得模范度为100的模范猴 |
+| ![Not Lacking Critical Information](./achievements_img/Not Lacking Critical Information.jpg) | Not Lacking Critical Information | 获得 25,000 次暴击 | 两个025毛毛 |
+
 
 ## 参考文献
-[Steam Bloons TD 6 achievements](./achievements_img/https://steamcommunity.com/stats/960090/achievements)
+[Steam Bloons TD 6 achievements](https://steamcommunity.com/stats/960090/achievements)
+[Bloons Wiki Hidden Achievements](https://bloons.fandom.com/wiki/Hidden_Achievements)
