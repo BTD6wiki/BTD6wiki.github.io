@@ -1,6 +1,8 @@
 # 成就
 ## 简介
-截至29.0版本，Bloons TD 6至今共获得137个成就：125个普通成就，12个隐藏成就。
+截至29.0版本，Bloons TD 6包含136个成就：124个普通成就，12个隐藏成就。
+
+注：成就数量和描述，与Steam保持一致。
 
 ## 普通成就
 | 图标 | 名称 | 解锁条件 |
@@ -129,8 +131,6 @@
 | ![So Spiiicey Ninja Kiwi](./achievements_img/So Spiiicey Ninja Kiwi.jpg) | So Spiiicey Ninja Kiwi | Beat Spice Islands on Alternate Bloon Rounds with only land towers |
 | ![No Harvest](./achievements_img/No Harvest.jpg) | No Harvest | Beat Cornfield on CHIMPs without removing any corn |
 | ![Student Loans](./achievements_img/Student Loans.jpg) | Student Loans | 4 x 10^5 (./achievements_img/Go into $400,000 of debt) |
-
-注：表格中遗漏了一个成就，麻烦知道的读者告知我们（猫猫流泪）
 
 ## 隐藏成就
 目前有 12 个已知的隐藏成就，其中包括：
